@@ -1,5 +1,5 @@
-import ssl
 import smtplib
+import ssl
 
 port = 465
 smtp_server = "test1.dev.local"
